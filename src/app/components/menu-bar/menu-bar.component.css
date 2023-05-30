@@ -1,0 +1,10 @@
+.menu-bar__container {
+  padding: 16px;
+}
+
+.menu-bar__container > ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  gap: 20px;
+}
