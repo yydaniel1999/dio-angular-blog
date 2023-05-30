@@ -1,0 +1,11 @@
+@media (max-width: 800px) {
+  .title__container > h1 {
+    font-size: 80px;
+  }
+}
+
+@media (max-width: 400px) {
+  .title__container > h1 {
+    font-size: 60px;
+  }
+}

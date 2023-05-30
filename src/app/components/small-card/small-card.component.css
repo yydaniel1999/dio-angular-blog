@@ -1,5 +1,5 @@
 .small-card__container {
-  width: 600px;
+  width: 400px;
   margin-bottom: 20px;
 }
 
@@ -14,8 +14,7 @@
 }
 
 .small-card__photo > img {
-  max-width: 200px;
-  width: 100%;
+  width: 200px;
 }
 
 .small-card__container > hr {

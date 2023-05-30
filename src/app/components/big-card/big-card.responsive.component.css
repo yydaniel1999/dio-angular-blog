@@ -1,0 +1,9 @@
+@media (max-width: 440px) {
+  .big-card__container {
+    width: 100%;
+  }
+
+  .big-card__title > h1 {
+    font-size: 20px;
+  }
+}

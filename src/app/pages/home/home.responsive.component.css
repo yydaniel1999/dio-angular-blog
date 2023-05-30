@@ -1,0 +1,12 @@
+@media (max-width: 840px) {
+  .articles__container {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+@media (max-width: 440px) {
+  .articles__container {
+    margin: 10px;
+  }
+}
